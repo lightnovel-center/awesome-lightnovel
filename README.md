@@ -9,6 +9,7 @@ A curated list about light novel related resources.
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) - 一个开源免费，功能完善的ebook阅读器。
 - [Eplee](https://github.com/Janglee123/eplee) - 一个开源免费的epub阅读器，优点是界面简洁，缺点是功能较少，含有bug，滑动体验一般。
 
+> 注意：Neat Reader 8.x 版本在epub的内嵌音视频播放方面存在无限循坏的bug。
 
 ### epub editor
 - [Sigil](https://sigil-ebook.com/sigil/download/) - 一个功能全面，但界面一般的免费epub编辑器。
