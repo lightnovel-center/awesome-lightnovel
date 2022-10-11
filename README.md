@@ -19,6 +19,6 @@ A curated list about light novel related resources.
 
 ## 书籍排版
 
-- [EPub指南——从入门到放弃 (赤霓)]() - 一本冗长的Epub制作排版指南，建议选读部分章节。
+- [EPub指南——从入门到放弃 (赤霓)] - 一本冗长的Epub制作排版指南，建议选读部分章节。
 - [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/#sotd) - 整理中文（汉字）书写系统于排版上的需求。
 - [《作译者手册》](https://www.phei.com.cn/wstg/zyzxz/index.shtml) - 电子工业出版社基于出版规范而整理编写的一份简洁的手册。
