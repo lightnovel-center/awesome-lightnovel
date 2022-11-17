@@ -21,10 +21,13 @@ A curated list about light novel related resources.
 ## 字体
 - [Kindle 中文字体推荐：更换一下字形口味](https://bookfere.com/post/423.html/comment-page-1) - 实测筛选了一些适合阅读的正文字体，每个字体附带字体族名和效果截图。
 
+## 排版标准
+- [EPUB for Education Structural Semantics(2016)](https://idpf.org/epub/profiles/edu/structure/) - EPUB 的结构语义。
+- [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/#sotd) - 整理中文（汉字）书写系统于排版上的需求。
+
 ## 书籍排版
 
 - [EPub指南——从入门到放弃 (赤霓)] - 一本冗长的Epub制作排版指南，建议选读部分章节。
-- [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/#sotd) - 整理中文（汉字）书写系统于排版上的需求。
 - [《作译者手册》](https://www.phei.com.cn/wstg/zyzxz/index.shtml) - 电子工业出版社基于出版规范而整理编写的一份简洁的手册。
 - [Copywriting - 中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/) - 关于中文排版中符号和空格的一种规范提议。
 - [The Standard Ebooks Manual of Style](https://standardebooks.org/manual/1.7.0) - 一份务实的epub风格指南。
