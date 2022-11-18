@@ -22,6 +22,7 @@ A curated list about light novel related resources.
 - [Kindle 中文字体推荐：更换一下字形口味](https://bookfere.com/post/423.html/comment-page-1) - 实测筛选了一些适合阅读的正文字体，每个字体附带字体族名和效果截图。
 
 ## 排版标准
+- [EPUB 3 Structural Semantics Vocabulary 1.1](https://www.w3.org/TR/epub-ssv-11) - This vocabulary, a part of EPUB® 3, defines a set of properties relating to the description of structural semantics of written works.
 - [EPUB for Education Structural Semantics(2016)](https://idpf.org/epub/profiles/edu/structure/) - EPUB 的结构语义。
 - [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/#sotd) - 整理中文（汉字）书写系统于排版上的需求。
 
