@@ -32,3 +32,4 @@ A curated list about light novel related resources.
 - [《作译者手册》](https://www.phei.com.cn/wstg/zyzxz/index.shtml) - 电子工业出版社基于出版规范而整理编写的一份简洁的手册。
 - [Copywriting - 中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/) - 关于中文排版中符号和空格的一种规范提议。
 - [The Standard Ebooks Manual of Style](https://standardebooks.org/manual/1.7.0) - 一份务实的epub风格指南。
+- [MobileRead wiki](https://wiki.mobileread.com/wiki/NCX) - This wiki is designed to supplement the MobileRead forum with reference data and information.
