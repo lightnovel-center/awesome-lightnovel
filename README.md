@@ -4,6 +4,8 @@ A curated list about light novel related resources.
 ## epub 
 
 ### epub reader
+Windows
+
 - [Thorium Reader](https://github.com/edrlab/thorium-reader) - 一个开源免费的epub阅读器，对Web HTML5标准的支持非常完善。
 - [Neat Reader](https://www.neat-reader.cn/) - 一个界面精美的epub阅读器，免费版功能受限，需要付费才能解锁全部功能。
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) - 一个开源免费，功能完善的ebook阅读器。
@@ -11,6 +13,15 @@ A curated list about light novel related resources.
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
 
 > 注意：Neat Reader 8.x 版本在epub的内嵌音视频播放方面存在无限循坏的bug。
+
+Android
+
+- [多看阅读]() - 对HTML标准支持较好的一款epub阅读器。
+
+IOS
+
+- [IBooks]() - 苹果手机系统自带的电子书阅读器，UI风格简约。
+
 
 ### epub editor
 - [Sigil](https://sigil-ebook.com/sigil/download/) - 一个功能全面，但界面一般的免费epub编辑器。
