@@ -29,6 +29,12 @@ IOS
 ### ebook converter
 - [Neat Converter 电脑版 For Windows](https://www.neat-reader.cn/downloads/converter) - 免费电子书格式转换器。
 
+## 写作
+
+- [obsidian](https://obsidian.md/) - 凭借强大、活跃的插件生态，obsidian也可以支持小说体裁的写作。
+- [岸图写作](https://www.andto.com/writer/index.html) - 一个基于.Net框架开发的 Windows 平台的专用于通用小说写作的工具。【收费软件】
+
+
 ## 字体
 - [Kindle 中文字体推荐：更换一下字形口味](https://bookfere.com/post/423.html/comment-page-1) - 实测筛选了一些适合阅读的正文字体，每个字体附带字体族名和效果截图。
 
